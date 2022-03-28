@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Demo
+
+theme:
+  name: material
+  highlightjs: true
+  nav_style: dark
+  hljs_languages:
+      - yaml
+
+
+nav:
+  - home: index.md
+  - about: about.md
